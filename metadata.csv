@@ -1,0 +1,62 @@
+;site;longitude;latitude;altitude;prec_jan;prec_july;prec_annual;temp_jan;temp_july;temp_annual;Landuse_type;Genotype;Method;Region;reads;replicates;site_code
+w02ava005;Arctic Village;-145.572;68.119;610;10;26;165;-29.1;11;-10.3;Tundra;North_deme;Random;Alaska;30187;4;ava
+w02ava007;Arctic Village;-145.572;68.119;610;10;26;165;-29.1;11;-10.3;Tundra;North_deme;Random;Alaska;56487;4;ava
+w02ava008;Arctic Village;-145.572;68.119;610;10;26;165;-29.1;11;-10.3;Tundra;North_deme;Random;Alaska;42292;4;ava
+w02ava009;Arctic Village;-145.572;68.119;610;10;26;165;-29.1;11;-10.3;Tundra;North_deme;Random;Alaska;30091;4;ava
+w02boy005;Boyle;-112.376;54.289;712;21;88;460;-14.9;16;1.4;Temperate_forest;South_deme;Transect partially;Canada;26894;7;boy
+w02boy007;Boyle;-112.376;54.289;712;21;88;460;-14.9;16;1.4;Temperate_forest;South_deme;Transect partially;Canada;22806;7;boy
+w02boy009;Boyle;-112.376;54.289;712;21;88;460;-14.9;16;1.4;Temperate_forest;South_deme;Transect partially;Canada;19675;7;boy
+w02boy014;Boyle;-112.376;54.289;712;21;88;460;-14.9;16;1.4;Temperate_forest;South_deme;Transect partially;Canada;24173;7;boy
+w02boy020;Boyle;-112.376;54.289;712;21;88;460;-14.9;16;1.4;Temperate_forest;South_deme;Transect partially;Canada;40735;7;boy
+w02boy023;Boyle;-112.376;54.289;712;21;88;460;-14.9;16;1.4;Temperate_forest;South_deme;Transect partially;Canada;37628;7;boy
+w02boy028;Boyle;-112.376;54.289;712;21;88;460;-14.9;16;1.4;Temperate_forest;South_deme;Transect partially;Canada;5053;7;boy
+w02car001;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;38932;13;car
+w02car002;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;50972;13;car
+w02car003;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;20331;13;car
+w02car007;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;23012;13;car
+w02car009;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;29559;13;car
+w02car014;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;25961;13;car
+w02car016;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;34067;13;car
+w02car017;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;52496;13;car
+w02car021;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;39381;13;car
+w02car023;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;36097;13;car
+w02car024;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;32161;13;car
+w02car027;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;13871;13;car
+w02car029;Carnduff;-101.51;49.133;496;13;63;396;-16.2;19.6;3.1;Agricultural;South_deme;Random;Canada;17534;13;car
+w02den001;Denali N. Park;-148.917;63.396;654;20;78;432;-17.6;11.6;-3.4;Boreal_forest;North_deme;Random;Alaska;28668;3;den
+w02den011;Denali N. Park;-148.917;63.396;654;20;78;432;-17.6;11.6;-3.4;Boreal_forest;North_deme;Random;Alaska;30391;3;den
+w02den028;Denali N. Park;-148.917;63.396;654;20;78;432;-17.6;11.6;-3.4;Boreal_forest;North_deme;Random;Alaska;26030;3;den
+w02fbk006;Fairbanks;-146.967;64.406;206;21;60;342;-23.5;15.4;-3.4;Boreal_forest;North_deme;Transect;Alaska;44992;4;fbk
+w02fbk012;Fairbanks;-146.967;64.406;206;21;60;342;-23.5;15.4;-3.4;Boreal_forest;North_deme;Transect;Alaska;26870;4;fbk
+w02fbk013;Fairbanks;-146.967;64.406;206;21;60;342;-23.5;15.4;-3.4;Boreal_forest;North_deme;Transect;Alaska;35039;4;fbk
+w02fbk029;Fairbanks;-146.967;64.406;206;21;60;342;-23.5;15.4;-3.4;Boreal_forest;North_deme;Transect;Alaska;36164;4;fbk
+w02ftm003;Fort McMurray;-111.325;56.588;388;23;82;453;-20.7;16.4;0;Boreal_forest;South_deme;Random;Canada;39233;8;ftm
+w02ftm007;Fort McMurray;-111.325;56.588;388;23;82;453;-20.7;16.4;0;Boreal_forest;South_deme;Random;Canada;19409;8;ftm
+w02ftm011;Fort McMurray;-111.325;56.588;388;23;82;453;-20.7;16.4;0;Boreal_forest;South_deme;Random;Canada;26144;8;ftm
+w02ftm012;Fort McMurray;-111.325;56.588;388;23;82;453;-20.7;16.4;0;Boreal_forest;South_deme;Random;Canada;26137;8;ftm
+w02ftm018;Fort McMurray;-111.325;56.588;388;23;82;453;-20.7;16.4;0;Boreal_forest;South_deme;Random;Canada;14817;8;ftm
+w02ftm020;Fort McMurray;-111.325;56.588;388;23;82;453;-20.7;16.4;0;Boreal_forest;South_deme;Random;Canada;34080;8;ftm
+w02ftm021;Fort McMurray;-111.325;56.588;388;23;82;453;-20.7;16.4;0;Boreal_forest;South_deme;Random;Canada;24838;8;ftm
+w02ftm028;Fort McMurray;-111.325;56.588;388;23;82;453;-20.7;16.4;0;Boreal_forest;South_deme;Random;Canada;33138;8;ftm
+w02gpr021;Grande Prairie;-118.569;54.452;983;36;81;553;-12.8;14;1.6;Temperate_forest;South_deme;Transect;Canada;33246;3;gpr
+w02gpr023;Grande Prairie;-118.569;54.452;983;36;81;553;-12.8;14;1.6;Temperate_forest;South_deme;Transect;Canada;14922;3;gpr
+w02gpr027;Grande Prairie;-118.569;54.452;983;36;81;553;-12.8;14;1.6;Temperate_forest;South_deme;Transect;Canada;8952;3;gpr
+w02hay007;Hay River;-115.514;60.737;173;19;47;339;-25.1;15.2;-3.6;Boreal_forest;South_deme;Transect;Canada;44745;7;hay
+w02hay010;Hay River;-115.514;60.737;173;19;47;339;-25.1;15.2;-3.6;Boreal_forest;South_deme;Transect;Canada;30674;7;hay
+w02hay015;Hay River;-115.514;60.737;173;19;47;339;-25.1;15.2;-3.6;Boreal_forest;South_deme;Transect;Canada;23310;7;hay
+w02hay019;Hay River;-115.514;60.737;173;19;47;339;-25.1;15.2;-3.6;Boreal_forest;South_deme;Transect;Canada;19617;7;hay
+w02hay020;Hay River;-115.514;60.737;173;19;47;339;-25.1;15.2;-3.6;Boreal_forest;South_deme;Transect;Canada;25278;7;hay
+w02hay023;Hay River;-115.514;60.737;173;19;47;339;-25.1;15.2;-3.6;Boreal_forest;South_deme;Transect;Canada;53413;7;hay
+w02hay028;Hay River;-115.514;60.737;173;19;47;339;-25.1;15.2;-3.6;Boreal_forest;South_deme;Transect;Canada;23835;7;hay
+w02lov010;Love;-104.857;53.409;454;20;71;451;-20.9;17.3;0.1;Agricultural;South_deme;Random;Canada;23479;4;lov
+w02lov012;Love;-104.857;53.409;454;20;71;451;-20.9;17.3;0.1;Agricultural;South_deme;Random;Canada;30908;4;lov
+w02lov016;Love;-104.857;53.409;454;20;71;451;-20.9;17.3;0.1;Agricultural;South_deme;Random;Canada;22312;4;lov
+w02lov022;Love;-104.857;53.409;454;20;71;451;-20.9;17.3;0.1;Agricultural;South_deme;Random;Canada;12972;4;lov
+w02mel006;Melville;-102.363;50.811;529;20;60;424;-18.6;18.1;1.5;Agricultural;South_deme;Random;Canada;33129;3;mel
+w02mel015;Melville;-102.363;50.811;529;20;60;424;-18.6;18.1;1.5;Agricultural;South_deme;Random;Canada;20671;3;mel
+w02mel021;Melville;-102.363;50.811;529;20;60;424;-18.6;18.1;1.5;Agricultural;South_deme;Random;Canada;22852;3;mel
+w02por002;Portage;-98.17;49.561;284;20;72;484;-17.2;19.9;2.9;Agricultural;South_deme;Random;Canada;8222;3;por
+w02por011;Portage;-98.17;49.561;284;20;72;484;-17.2;19.9;2.9;Agricultural;South_deme;Random;Canada;26518;3;por
+w02por013;Portage;-98.17;49.561;284;20;72;484;-17.2;19.9;2.9;Agricultural;South_deme;Random;Canada;50055;3;por
+w03cad013-miki;Cadxyz;-117.483;53.143;1446;34;87;534;-12.2;12.4;0.8;Agricultural;South_deme;Random;Canada;40134;2;cad
+w03cad014-miki;Cadxyz;-117.483;53.143;1446;34;87;534;-12.2;12.4;0.8;Agricultural;South_deme;Random;Canada;39137;2;cad

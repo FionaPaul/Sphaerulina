@@ -1,0 +1,86 @@
+[General]
+Creator=DIVA-GIS
+Created=20091126
+Title=alt
+
+[GeoReference]
+Projection=
+Datum=
+Mapunits=
+Columns=2160
+Rows=900
+MinX=-180
+MaxX=180.000000000001
+MinY=-60.0000000000003
+MaxY=90
+ResolutionX=0.166666666666667
+ResolutionY=0.166666666666667
+
+[Data]
+DataType=INT2S
+MinValue=-353
+MaxValue=6241
+NoDataValue=-9999
+Transparent=1
+Units=
+
+[Application]
+Opt0=Imported BIL from: d:\miki_balint\gis\topography\alt_10m_bil\alt.bil
+
+[ContLegend]
+Count=2
+Color1=16711680
+Value1=-353
+Label1=
+Color2=255
+Value2=6241
+Label2=
+
+[Legend]
+Count=10
+Color1=32768
+Min1=0
+Max1=200
+Label1=0 - 200
+Color2=65280
+Min2=200
+Max2=400
+Label2=200 - 400
+Color3=65535
+Min3=400
+Max3=600
+Label3=400 - 600
+Color4=38655
+Min4=600
+Max4=800
+Label4=600 - 800
+Color5=255
+Min5=800
+Max5=1000
+Label5=800 - 1000
+Color6=4210816
+Min6=1000
+Max6=1200
+Label6=1000 - 1200
+Color7=8421504
+Min7=1200
+Max7=1400
+Label7=1200 - 1400
+Color8=12632256
+Min8=1400
+Max8=1600
+Label8=1400 - 1600
+Color9=16777088
+Min9=1600
+Max9=1800
+Label9=1600 - 1800
+Color10=16777215
+Min10=1800
+Max10=4500
+Label10=1800 - 4500
+Transparent=1
+NoDataColor=16777210
+NoDataLabel=No Data
+isContinuous=0
+SpacedByColor=0
+
